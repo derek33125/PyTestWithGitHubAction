@@ -4,6 +4,6 @@ def calc_addition(a, b):
 def calc_multiply(a, b):
     return a * b
     
-# Bug exists here    
+# Fix the bug now    
 def calc_subtraction(a, b):
-    return a
+    return a - b
